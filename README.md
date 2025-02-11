@@ -1,2 +1,2 @@
 # PremierStats
-A Full-Stack Premier League Statistics Application
+The Backend for a future Full-Stack Premier League Statistics Application
